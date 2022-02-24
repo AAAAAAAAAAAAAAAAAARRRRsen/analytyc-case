@@ -1,1 +1,1 @@
-# analytyc-case
+# analytyc-case project data analytic
